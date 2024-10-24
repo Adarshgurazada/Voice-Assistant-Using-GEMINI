@@ -26,8 +26,8 @@ This project showcases a voice assistant powered by the GEMINI Pro LLM, Azure Co
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/voice-assistant.git
-    cd voice-assistant
+    git clone https://github.com/Adarshgurazada/Voice-Assistant-Using-GEMINI.git
+    cd Voice-Assistant-Using-GEMINI
     ```
 
 2. Install the required Python packages:
